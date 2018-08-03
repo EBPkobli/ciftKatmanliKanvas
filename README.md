@@ -1,0 +1,2 @@
+# ciftKatmanliKanvas
+createGraphics() fonksiyonu incelemesi
